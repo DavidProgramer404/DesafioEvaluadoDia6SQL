@@ -1,4 +1,4 @@
-CREATE DATA BASE desafio2_david_valdes_404
+CREATE DATABASE desafio2_david_valdes_404
 
 CREATE TABLE IF NOT EXISTS INSCRITOS(cantidad INT, fecha DATE, fuente
 VARCHAR);
